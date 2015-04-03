@@ -1,0 +1,3 @@
+SSID: Dog House
+Pass: doghouse
+Core ID: 54ff6c066678574956320167
